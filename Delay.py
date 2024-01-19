@@ -10,7 +10,7 @@ def dd(k, x):
     # Amount = 100
 
 parameter = np.linspace(0.1,1,4)
-delay = np.linspace(0,11,100)
+delay = np.linspace(0,10,100)
 subject_value = []
 
 for i in parameter:
